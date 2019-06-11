@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1541694870 source:c:\users\sizid\desktop\3Курс\Методы Оптимизации\1Лаба\laba1methods\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+
